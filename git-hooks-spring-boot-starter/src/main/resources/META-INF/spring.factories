@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.github.dreamroute.git.hooks.sample.Application.starter.CheckPreCommitAutoConfiguration
