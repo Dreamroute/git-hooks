@@ -11,8 +11,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
-            int a = 10;
-            int b = 20;
+        int a = 10;
+        int b = 20;
         int c = a + b;
         System.err.println(c);
     }

@@ -1,4 +1,4 @@
-package com.github.dreamroute.git.hooks.sample.Application.starter;
+package com.github.dreamroute.git.hooks.sample.starter;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.StrUtil;
