@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/.flattened-pom.xml
+/git-hooks-sample/.flattened-pom.xml
+/git-hooks-spring-boot-starter/.flattened-pom.xml
